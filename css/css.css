@@ -1,0 +1,51 @@
+.col{
+	background-color: #9c27b0;
+}
+.white{
+	color: white;
+}
+.white1{
+	background-color: white;
+}
+.gray{
+	background-color: lightgray;
+
+}
+.black{
+	color: black;
+	font-weight: bolder;
+}
+.back{
+	background-color: #ffffff;
+}
+.bold{
+	font-weight: bolder;
+}
+.border{
+border: 2px solid black;
+}
+.box{
+	border: 1px solid black;
+	background-color: white;
+	border-radius:50px;
+	margin-top:20px;
+	padding: 0px 30px 30px 30px;
+	font-size: 30px;
+}
+.font{
+	font-size: 25px;
+	color: black;
+}
+p{
+	color: black;
+}
+.bord{
+	border-radius: 18px;
+}
+hr{
+	margin-left: 65px;
+	margin-right: 65px;
+}
+.hori{
+	border: 1px solid black;
+}
